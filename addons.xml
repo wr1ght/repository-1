@@ -71,7 +71,7 @@
 		<platform>all</platform>
 		<forum>https://www.jesusboxmedia.tv</forum>
 		<website>https://www.jesusboxmedia.tv/</website>
-		<source>https://raw.githubusercontent.com/wr1ght/repository-1/master</source>
+		<source>http://103.105.51.222/repo</source>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
@@ -108,7 +108,7 @@
 		<platform>all</platform>
 		<forum>https://www.jesusboxmedia.tv</forum>
 		<website>https://www.jesusboxmedia.tv/</website>
-		<source>https://raw.githubusercontent.com/wr1ght/repository-1/master</source>
+		<source>http://103.105.51.222/repo</source>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
@@ -145,7 +145,7 @@
 		<platform>all</platform>
 		<forum>https://www.jesusboxmedia.tv</forum>
 		<website>https://www.jesusboxmedia.tv/</website>
-		<source>https://raw.githubusercontent.com/wr1ght/repository-1/master</source>
+		<source>http://103.105.51.222/repo</source>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
@@ -213,9 +213,9 @@
 
 <addon id="repository.jesusboxtv" name="Jesusbox Repository" version="1.0.3" provider-name="Playonmonkey">
 	<extension point="xbmc.addon.repository" name="Jesusbox Repository">
-		<info compressed="false">https://raw.githubusercontent.com/wr1ght/repository-1/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/wr1ght/repository-1/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/wr1ght/repository-1/master/</datadir>
+		<info compressed="false">http://103.105.51.222/repo/addons.xml</info>
+		<checksum>http://103.105.51.222/repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://103.105.51.222/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Welcome to the Jesusbox Repository where you will find all Jesusbox produced Addon-ons and wizards</summary>
